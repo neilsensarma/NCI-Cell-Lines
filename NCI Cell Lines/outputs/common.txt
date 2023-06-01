@@ -1,0 +1,34 @@
+4-pyridoxate
+adenine
+citrate
+isocitrate
+cytidine
+guanosine
+hypoxanthine
+inosine
+lactose
+sucrose
+uracil
+taurocholate
+phosphocreatine
+malondialdehyde
+glycine
+citrulline
+acetylglycine
+dimethylglycine
+kynurenic acid
+thiamine
+betaine
+choline
+acetylcholine
+creatine
+thyroxine
+xanthosine
+pipecolic acid
+pyroglutamic acid
+methionine sulfoxide
+malonylcarnitine
+hexanoylcarnitine
+stearoylcarnitine
+sarcosine
+beta-alanine

@@ -1,0 +1,197 @@
+Isopropyl alcohol ; Propyl alcohol
+But-2-enoic acid ; Diacetyl ; Gamma-Butyrolactone ; Oxolan-3-one
+2-Aminoacrylic acid ; 2-aminoacrylic acid
+D-Proline ; D-proline ; L-Proline ; L-proline ; acetamidopropanal
+5-Aminopentanoic acid ; Betaine ; HMDB02141 ; L-Valine ; L-valine ; Vaporole ; glycine betaine
+Erythrono-1,4-lactone ; Methylmalonate ; Methylmalonic acid ; Succinate ; Succinic acid ; Threonolactone
+Aminomalonic acid
+1-Pyrroline-4-hydroxy-2-carboxylate ; 5-oxoprolinate ; HMDB01843 ; L-1-Pyrroline-3-hydroxy-5-carboxylate ; Pyroglutamic acid ; Pyrrolidonecarboxylic acid ; Pyrroline hydroxycarboxylic acid
+4-acetamidobutanal ; D-Pipecolic acid ; HMDB04226 ; L-Pipecolic acid ; L-pipecolic acid ; Pipecolic acid
+(S)-2-Acetolactate ; 2-Acetolactate ; Dimethylmalonic acid ; Ethylmalonic acid ; Glutaric acid ; Methylsuccinic acid ; Monoethyl malonic acid
+Glycyl-glycine ; HMDB12265 ; L-Asparagine ; L-asparagine ; N-carbamoyl-beta-alaninate ; Ureidopropionic acid
+(5R)-5-Hydroxyhexanoic acid ; (R)-2-hydroxy-4-methylpentanoate ; (R)-3-Hydroxyhexanoic acid ; 2-Ethyl-2-Hydroxybutyric acid ; 2-Hydroxy-3-methylpentanoic acid ; 2-Hydroxycaproic acid ; 5-Hydroxyhexanoic acid ; D-Leucic acid ; Hydroxyisocaproic acid ; Leucinic acid
+(R)-2,3-Dihydroxy-isovalerate ; 1-Deoxy-D-xylulose ; 2,3-Dihydroxyvaleric acid ; 2-deoxy-D-ribose ; Deoxyribose
+2-Aminobenzoic acid ; 3-Pyridylacetic acid ; anthranilate ; m-Aminobenzoic acid ; p-Aminobenzoic acid
+3-Ureidoisobutyrate ; Alanylglycine ; D-Glutamine ; Glycylsarcosine ; L-Glutamine ; L-glutamine ; Ureidoisobutyric acid
+D-Glutamic acid ; HMDB02393 ; HMDB02931 ; L-4-Hydroxyglutamate semialdehyde ; L-4-hydroxyglutamic semialdehyde ; L-Glutamic acid ; L-glutamate(1-) ; O-Acetylserine
+3-Hydroxyglutaric acid ; Citramalic acid ; D-2-Hydroxyglutaric acid ; D-Xylono-1,5-lactone ; L-2-Hydroxyglutaric acid ; Ribonolactone
+(R) 2,3-Dihydroxy-3-methylvalerate ; (R)-mevalonate ; Mevalonic acid
+2-Phenylglycine ; Acetaminophen ; Dopamine quinone ; leukoaminochrome
+2,5-dihydroxybenzoate ; 2-Pyrocatechuic acid ; Gentisic acid ; Protocatechuic acid
+2,4-Dihydroxy-nitrophenol ; 2-hydroxy-4-nitrophenolate ; 4-Nitrocatechol
+1,2-Dihydroxy-3-keto-5-methylthiopentene
+3-Methylsulfinylpropyl isothiocyanate
+3-Methyldioxyindole ; 4-(3-Pyridyl)-3-butenoic acid
+1-Methylguanine ; 3-Methylguanine ; 7-Methylguanine ; HMDB06040
+Quinolinic acid ; quinolinate(2-)
+N-Trimethyl-2-aminoethylphosphonate
+3,4-Dihydroxybenzeneacetic acid ; 3,4-Dihydroxymandelaldehyde ; 3-Hydroxymandelic acid ; 5-Methoxysalicylic acid ; Homogentisic acid ; Vanillic acid ; p-Hydroxymandelic acid
+5-Hydroxydopamine ; 6-Hydroxydopamine ; HMDB00216 ; Norepinephrine ; Pyridoxine
+D-Glyceraldehyde 3-phosphate ; Dihydroxyacetone phosphate ; Glyceraldehyde 3-phosphate
+2-Amino-3-oxoadipate ; HMDB00812 ; HMDB03470 ; N-acetyl-L-aspartate(2-)
+O-Ureidohomoserine
+4-Oxo-4-(3-pyridyl)-butanamide ; BOX A ; BOX B ; PHderiv_Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid
+Fructosamine ; Glucosamine
+7-Aminomethyl-7-carbaguanine
+HMDB03269 ; PHderiv_Oxalate; Oxalic acid; Ethanedioic acid
+Epinephrine ; HMDB00819 ; Methylnoradrenaline
+5'-Hydroxycotinine ; Cotinine N-oxide ; HMDB01324 ; Hydroxycotinine ; Oxoamide ; PHderiv_2-Oxobutanoate; 2-Ketobutyric acid; 2-Oxobutyric acid; 2-Oxobutyrate; 2-Oxobutanoic acid; alpha-Ketobutyric acid; alpha-Ketobutyrate
+2-Methylhippuric acid ; Methylhippuric acid ; Phenylacetylglycine ; o-methylhippurate
+(-)-Salsoline ; (R)-1,2-dimethyl-5,6-dihydroxy-tetrahydroisoquinoline ; N-methylsalsolinol
+Isoferulic acid ; Monoethyl phthalate ; trans-Ferulic acid
+Ecgonine methyl ester ; ecgoninium methyl ester(1+)
+Spermine ; spermine(4+)
+Cystathionine ketimine
+Xanthurenic acid ; oxoxanthurenate
+(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate ; 2-Methylcitric acid ; 2-methylcitrate(3-) ; Homocitric acid ; Methylisocitric acid
+Lipoic acid ; lipoate
+4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanone
+Chalcone
+Vanillactic acid
+m-Chlorohippuric acid
+Cis-zeatin
+PHderiv_(S)-3-Methyl-2-oxopentanoic acid; (S)-3-Methyl-2-oxopentanoate; (3S)-3-Methyl-2-oxopentanoic acid; (3S)-3-Methyl-2-oxopentanoate ; PHderiv_2-Oxohexanoic acid; 2-Oxohexanoate; alpha-Ketocaproic acid ; PHderiv_4-Methyl-2-oxopentanoate; 2-Oxoisocaproate
+PHderiv_Oxalureate; Oxaluric acid; Monooxalylurea; Oxalurate
+Glycylphenylalanine ; PHderiv_3-Hydroxy-3-methyl-2-oxobutanoic acid; 3-Hydroxy-3-methyl-2-oxobutanoate; 2-Oxo-3-hydroxyisovalerate ; PHderiv_4-Hydroxy-2-oxopentanoate; 4-Hydroxy-2-oxovalerate
+3-hydroxy-L-kynurenine ; 5-Hydroxykynurenine ; 5-hydroxykynurenine ; Hydroxykynurenine ; L-3-Hydroxykynurenine
+N-acetyl-5-methoxykynuramine
+6-pyruvoyl-5,6,7,8-tetrahydropterin ; Biopterin ; D-Biopterin ; Dyspropterin ; Orinapterin ; Primapterin ; Sepiapterin
+salsoline-1-carboxylate
+5,6,7,8-tetrahydrobiopterin ; Sapropterin ; Tetrahydrobiopterin
+Erythrohydrobupropion
+L-beta-aspartyl-L-leucine ; L-gamma-glutamyl-L-valine
+Pyridoxine 5'-phosphate
+Benzpyrene
+7,10-Hexadecadienoic acid ; 7Z,10Z-Hexadecadienoic acid
+Hydroxybupropion
+Dihydrodaidzein
+(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl phosphate ; 1D-myo-Inositol 3-phosphate ; 1D-myo-inositol 1-phosphate(2-) ; 1D-myo-inositol 3-phosphate(2-) ; 1D-myo-inositol 4-phosphate(2-) ; Beta-D-Fructose 2-phosphate ; Beta-D-Fructose 6-phosphate ; Beta-D-Glucose 6-phosphate ; D-Fructose 1-phosphate ; D-Fructose 6-phosphate ; D-Glucose 1-phosphate ; D-Glucose 6-phosphate ; D-Mannose 1-phosphate ; D-Mannose 6-phosphate ; D-Myo-inositol 4-phosphate ; D-Tagatose 1-phosphate ; D-Tagatose 6-phosphate ; D-tagatofuranose 6-phosphate(2-) ; Dolichyl phosphate D-mannose ; Fructose 1-phosphate ; Fructose 6-phosphate ; Galactose 1-phosphate ; Galactose-1P ; Glucose 1-phosphate ; Glucose 6-phosphate ; Inositol phosphate ; Mannose 6-phosphate ; Myo-inositol 1-phosphate ; Sorbose 1-phosphate
+3-Methoxy-4-Hydroxyphenylglycol sulfate ; 3-Methoxy-4-hydroxyphenylethyleneglycol sulfate
+2-Amino-4-oxo-6-(1',2'-dioxoprolyl)-7,8-dihydroxypteridine
+3-Deoxy-D-glycero-D-galacto-2-nonulosonic acid
+anhydroretinol
+Nordazepam
+Dextromethorphan
+5C-aglycone
+5a-Androst-3-en-17-one
+Chlorpheniramine
+Biotin sulfone
+5-Amino-6-ribitylamino uracil
+S-(2-Methylpropanoyl)-dihydrolipoamide ; S-(2-Methylpropionyl)-dihydrolipoamide-E
+Pantetheine ; pantetheine
+3'-carboxy-alpha-chromanol ; Alpha-CEHC
+Kaempferol ; Luteolin
+L-Octanoylcarnitine ; octanoyl carnitine
+2-Amino-4-oxo-6-(1',2',3'-trihydroxypropyl)-diquinoid-7,8-dihydroxypterin
+Parathion
+Hawkinsin
+Aspartame ; Glutamylphenylalanine
+1,4-benzothiazine-o-quinonimine
+7-Methylguanosine
+(2S)-1-hydroxy-3-oxooctadecan-2-aminium ; 3-Dehydrosphinganine ; Palmitoylethanolamide ; Sphingosine ; sphingosine(1+)
+13-cis-Retinoic acid ; 13-cis-retinoate ; 4-OH-13-cis-retinal ; 4-OH-9-cis-retinal ; 4-OH-retinal ; 4-Oxoretinol ; 9,13-cis-retinoate ; 9-cis-Retinoic acid ; 9-cis-retinoate ; Retinoic acid ; all-trans-retinoate
+N-Acetyl-D-galactosamine 1-phosphate ; N-Acetyl-D-glucosamine 1-phosphate ; N-acetyl-D-glucosamine 6-phosphate(2-) ; N-acetyl-D-mannosamine 6-phosphate(2-)
+Hesperetin
+6-Ketoestriol ; Enterodiol ; HMDB12270
+Scopolamine ; cocaine(1+)
+cis-Fenpropimorph
+(S)-Succinyldihydrolipoamide ; S-Succinyldihydrolipoamide
+Tolnaftate
+Bisdemethoxycurcumin ; Warfarin
+1-deoxy-1-(N6-lysino)-D-fructose
+Gestrinone
+Aflatoxin B1 ; aflatoxin B1
+Olanzapine
+Geranyl diphosphate ; Geranyl-PP
+Valdecoxib
+Octanoylglucuronide ; Valproic acid glucuronide
+3a,20b-Pregnanediol ; 7a,17-dimethyl-5b-Androstane-3a,17b-diol ; Pregnanediol
+2-Amino-4-oxo-4-alpha-hydroxy-6-(erythro-1',2',3'-trihydroxypropyl)-5,6,7,8-tetrahydroxypterin
+Galactosylhydroxylysine
+6,7-Dimethyl-8-(1-D-ribityl)lumazine
+2,3-Epoxyaflatoxin B1 ; aflatoxin B1 exo-8,9-epoxide
+Furosemide
+Aflatoxin B1 dialcohol
+1-(sn-Glycero-3-phospho)-1D-myo-inositol
+12-Keto-leukotriene B4 ; 12-oxo-leukotriene B4 ; 15(R)-hydroperoxy-EPE ; 15(S)-hydroperoxy-EPE ; 15-Keto-13,14-dihydroprostaglandin A2 ; 15-deoxy-PGD2 ; 5(S),6(S)-epoxy-15(R)-hydroxyeicosatetraenoate ; 5(S),6(S)-epoxy-15(S)-hydroxy-7E,9E,11Z,13E-eicosatetraenoic acid anion ; 5,12-dihydroxy-6E-LTB5 ; 5-hydroperoxy-EPA ; 5-oxo-12(S)-hydroxy-eicosa-6E,8Z,10E,14Z-tetraenoate ; 5-oxo-6-trans-leukotriene B4 ; 5-oxo-6E-12-epi-leukotriene B4 ; Delta-12-Prostaglandin J2 ; Leukotriene B5 ; Prostaglandin A2 ; Prostaglandin B2 ; Prostaglandin J2 ; delta12-Prostaglandin J2 ; leukotriene B5 ; prostaglandin-a2 ; prostaglandin-b2 ; prostaglandin-c2
+Peonidin
+S-(Hydroxymethyl)glutathione ; S-(hydroxymethyl)glutathione(1-)
+AICAR
+3-b-Galactopyranosyl glucose ; Alpha-Lactose ; Cellobiose ; D-Maltose ; Epimelibiose ; Galactinol ; Isomaltose ; Kojibiose ; Lactose ; Lactulose ; Maltose ; Melibiose ; Sucrose ; Trehalose ; Turanose ; glucose-1,3-mannose oligosaccharide
+Molybdopterin precursor Z
+Clotrimazole
+Maltitol ; Melibiitol
+nifedipine
+Gibberellin A3
+(5Z,9E,12S,14Z)-8,11,12-trihydroxyicosa-5,9,14-trienoate ; 11,12,15-THETA ; 11,12,15-TriHETRE ; 11,14,15-THETA ; 11,15-cyclo-8,12,14-trihydroxy-(5Z,9E)-eicosadienoic acid ; 11-Epi-PGF2a ; 11b-PGF2a ; 13,14-Dihydro-15-keto PGF2a ; 20-OH-10,11-dihydro-leukotriene B4 ; 5,9,11-trihydroxyprosta-6E,14Z-dien-1-oate ; 5,9-cyclo-6,8,12-trihydroxy-(10E,14Z)-eicosadienoic acid ; 8-Isoprostaglandin E1 ; 8-Isoprostaglandin F2a ; 8-iso-13,14-dihydro-15-keto-PGF2a ; 8-isoprostaglandin PGF2b ; 9,11,15-trihydroxyprosta-5Z,13E-dien-1-oate ; Prostaglandin D1 ; Prostaglandin E1 ; Prostaglandin F2a ; Prostaglandin F2b ; Trioxilin A3 ; Troxilin B3 ; prostaglandin E1(1-) ; prostaglandin F2alpha(1-) ; prostaglandin H1 ; prostaglandin-d1 ; prostaglandin-f2beta
+hydroxy nifedipine
+trans-3-Hydroxycotinine glucuronide
+Curcumin
+Celecoxib
+Cis-zeatin-7-N-glucoside ; Cis-zeatin-9-N-glucoside ; Cis-zeatin-O-glucoside
+Pantoprazole
+3b,16a-Dihydroxyandrostenone sulfate
+5,6-trans-Vitamin D3 ; 5Alpha-cholesta-8-en-3-one ; 5a-Cholesta-7,24-dien-3b-ol ; 5alpha-cholesta-7,24-dien-3beta-ol ; 7-Dehydrocholesterol ; 8-Dehydrocholesterol ; 8-dehydrocholesterol ; Cholestenone ; Desmosterol ; Lumisterol 3 ; Previtamin D3 ; Tachysterol 3 ; Vitamin D3 ; Zymosterol intermediate 2 ; calciol ; cholesta-5,7-dien-3beta-ol ; desmosterol ; zymosterol
+1-Phosphatidyl-D-myo-inositol
+1,3,12-Trihydroxycholan-24-oic acid ; 1b,3a,12a-Trihydroxy-5b-cholanoic acid ; 1b,3a,7a-Trihydroxy-5b-cholanoic acid ; 2b,3a,7a-Trihydroxy-5b-cholanoic acid ; 3a,4b,12a-Trihydroxy-5b-cholanoic acid ; 3a,4b,7a-Trihydroxy-5b-cholanoic acid ; 3a,6a,7b-Trihydroxy-5b-cholanoic acid ; 3a,6b,7b-Trihydroxy-5b-cholanoic acid ; 3a,7a,12b-Trihydroxy-5b-cholanoic acid ; 3a,7b,12a-Trihydroxy-5a-Cholanoic acid ; 3a,7b,12b-Trihydroxy-5b-cholanoic acid ; 3b,7a,12a-Trihydroxy-5a-Cholanoic acid ; 3b,7a,12a-Trihydroxy-5b-cholanoic acid ; 3b,7b,12a-Trihydroxy-5a-Cholanoic acid ; 3b,7b,12a-Trihydroxy-5b-cholanoic acid ; 6a,12a-Dihydroxylithocholic acid ; Allocholic acid ; Alpha-Muricholic acid ; Cholic acid ; Hyocholic acid ; Muricholic acid ; Ursocholic acid
+25-Hydroxyvitamin D2 ; 4a-Formyl-5a-cholesta-8,24-dien-3b-ol
+CPA(18:1(11Z)/0:0) ; CPA(18:1(9Z)/0:0)
+Simvastatin
+Lactose 6-phosphate ; Trehalose 6-phosphate
+Pravastatin
+Pyridinoline
+24,25-Dihydrolanosterol ; Tetrahymanol
+13'-hydroxy-gama-tocopherol ; 8alpha-hydroxy-gama-tocopherone ; gama-tocopheryl quinone
+Demethylphylloquinone
+LPA(0:0/18:0) ; LPA(18:0/0:0)
+3-hydroxyoctadecadienoylcarnitine
+4,4-Dimethyl-14alpha-formyl-5alpha-cholesta-8-en-3beta-ol ; Erythrodiol ; Obtusifoliol ; Uvaol
+5,6,7,8-Tetrahydrofolate ; Tetrahydrofolic acid
+dynorphin B (10-13)
+13'-hydroxy-alpha-tocopherol ; 8alpha-hydroxytocopherone ; alpha-tocopheryl quinone
+Celastrol
+Vitamin K1 ; phylloquinone
+(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate ; SAICAR
+Boswellic acid ; Oleanolic acid ; Ursolic acid
+2,3-epoxy-alpha-tocopheryl quinone ; 5,6-epoxy-alpha-tocopheryl quinone
+15-hydroxynorandrostene-3,17-dione glucuronide ; 16-Glucuronide-estriol ; 16-alpha,17-beta-estriol 17-beta-D-glucuronide ; Estriol-16-Glucuronide ; Estriol-17-glucuronide ; Estriol-3-glucuronide
+Vitamin K1 2,3-epoxide
+1-Phosphatidyl-1D-myo-inositol 3-phosphate
+Reduced Vitamin K (phylloquinone)
+Clupanodonyl carnitine ; Docosa-4,7,10,13,16-pentaenoyl carnitine ; clupanodonyl carnitine ; docosa-4,7,10,13,16-pentaenoyl carnitine
+Chicoric acid
+Adrenyl carnitine
+7,8-dihydroneopterin 3'-triphosphate(4-) ; Dihydroneopterin triphosphate
+Kentsin ; Tuftsin
+Thiamin triphosphate
+2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine ; 2,5-Diaminopyrimidine nucleoside triphosphate
+Desmosine ; Isodesmosine
+1,4-beta-D-Glucan
+Alpha-Carotene ; B-Carotene ; Lycopene ; beta-carotene ; cis-b,b-Carotene ; cis-y,y-Carotene
+Phytoene
+Atorvastatin
+2-Hexaprenyl-3-methyl-6-methoxy-1,4 benzoquinone
+Protoporphyrinogen IX
+2-Hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone ; 3-Hexaprenyl-4-hydroxy-5-methoxybenzoic acid
+PhosphoribosylformiminoAICAR-phosphate ; Phosphoribulosylformimino-AICAR-P
+Inositol 1,3,4,5,6-pentakisphosphate ; myo-inositol 1,3,4,5,6-pentakisphosphate(10-)
+Biliverdin ; biliverdin(2-)
+Mesobilirubinogen
+L-Urobilin
+L-Urobilinogen
+HMDB03020 ; Violaxanthin
+Rutin
+PA(16:0/18:2(9Z,12Z))
+glutathionyl-3-hydroxykynurenine glucoside
+Dephospho-CoA
+Pentacarboxyl porphyrinogen III
+Theaflavin-3-gallate
+PC(14:0/18:4(6Z,9Z,12Z,15Z)) ; PC(14:1(9Z)/18:3(6Z,9Z,12Z)) ; PC(14:1(9Z)/18:3(9Z,12Z,15Z)) ; PC(18:3(6Z,9Z,12Z)/14:1(9Z)) ; PC(18:3(9Z,12Z,15Z)/14:1(9Z)) ; PC(18:4(6Z,9Z,12Z,15Z)/14:0) ; PE(15:0/20:4(5Z,8Z,11Z,14Z)) ; PE(15:0/20:4(8Z,11Z,14Z,17Z)) ; PE(20:4(5Z,8Z,11Z,14Z)/15:0) ; PE(20:4(8Z,11Z,14Z,17Z)/15:0)
+Hexacarboxylporphyrin I ; Hexacarboxylporphyrin III ; Porphinehexacarboxylic acid
+beta-casomorphin (1-6)
+TG(16:0/14:0/18:2(9Z,12Z))[iso6] ; TG(16:0/16:1(9Z)/16:1(9Z))[iso3] ; TG(16:1(9Z)/14:0/18:1(11Z))[iso6] ; TG(16:1(9Z)/14:0/18:1(9Z))[iso6]
+Heme O
+neuromedin B (4-10)
+Hydroxymethylbilane
+Sennoside B
+dynorphin A 1-8
