@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2023-06-10T07:37:22.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="L2y7H5eOFTzSnRRuiWNE" version="21.3.8" type="github">
+  <diagram name="Page-1" id="7W8LB0LxO2s-Lcnry1Br">
+    <mxGraphModel dx="1313" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r0TS0tk0IzFO6ZnYBTqd-1" target="r0TS0tk0IzFO6ZnYBTqd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-1" value="Metabolic data - NCI, CCLE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="167" y="56" width="54" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="r0TS0tk0IzFO6ZnYBTqd-3" target="r0TS0tk0IzFO6ZnYBTqd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-3" value="Drug Response data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="167" y="189" width="58" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="r0TS0tk0IzFO6ZnYBTqd-4" target="r0TS0tk0IzFO6ZnYBTqd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r0TS0tk0IzFO6ZnYBTqd-4" target="r0TS0tk0IzFO6ZnYBTqd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-4" value="Preprocessing - duplicate null check, select representative metabolites for NCI&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r0TS0tk0IzFO6ZnYBTqd-9" target="r0TS0tk0IzFO6ZnYBTqd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-9" value="Label creation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="397" y="71.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="r0TS0tk0IzFO6ZnYBTqd-10" target="r0TS0tk0IzFO6ZnYBTqd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-10" value="Normalization of input metabolites" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="397" y="208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r0TS0tk0IzFO6ZnYBTqd-17" target="r0TS0tk0IzFO6ZnYBTqd-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="626" y="287" />
+              <mxPoint x="407" y="287" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-17" value="SMOTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r0TS0tk0IzFO6ZnYBTqd-21" target="r0TS0tk0IzFO6ZnYBTqd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-21" value="Train Test Split - 80/20" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="321" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r0TS0tk0IzFO6ZnYBTqd-24" target="r0TS0tk0IzFO6ZnYBTqd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-24" value="Feature importance based feature selection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="418" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r0TS0tk0IzFO6ZnYBTqd-25" target="r0TS0tk0IzFO6ZnYBTqd-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="487" y="541" />
+              <mxPoint x="487" y="441" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r0TS0tk0IzFO6ZnYBTqd-25" target="r0TS0tk0IzFO6ZnYBTqd-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-25" value="Train/test models (XGBoost, SVM, RF)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-31" value="50 times" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="498" y="476" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r0TS0tk0IzFO6ZnYBTqd-32" target="r0TS0tk0IzFO6ZnYBTqd-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="621" y="642" />
+              <mxPoint x="621" y="351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-32" value="Use probability score as threshold to determine cell lines with 100% precision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="612" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Machine Learning Framework&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="231" y="18" width="410" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="r0TS0tk0IzFO6ZnYBTqd-37" value="Repeat the process for all 15 drugs to get maximum coverage possible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="628" y="454" width="154" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
